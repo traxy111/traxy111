@@ -1,11 +1,16 @@
-# Traxy
+# Hi, I'm Traxy 👋
 
-Independent product builder.
+Solo indie maker building lightweight AI, craft, and portfolio web tools — designed around **one-time packs and zero forced subscriptions**.
 
-## ChangeLoop 7
+### Live Projects
 
-[ChangeLoop 7](https://changeloop7.com/?utm_source=github&utm_medium=profile&utm_campaign=product_portfolio_2026_09) helps people turn repeated intentions into one clear weekly focus, learn from imperfect weeks, and carry useful observations into the next cycle. It is a private, structured product for people who want less motivational noise and more realistic follow-through. The first complete cycle is free.
+- **[AI Draw Kit](https://aidrawkit.com)** — Turn any photo or illustration into printable **Cross Stitch** (DMC color lists & symbol charts) and **Perler / Hama / Artkal / MARD fuse bead** pegboard patterns. Free online preview; one-time PDF packs.
+  - [Photo to Cross Stitch](https://aidrawkit.com/photo-to-cross-stitch) · [Photo to Perler Beads](https://aidrawkit.com/photo-to-perler-beads)
+- **[inreel](https://inreel.app)** — Turn one photo into vertical 9:16 AI birthday, holiday, pet, and full-length dance videos with audio. Automatic refunds on failed generations, one-time credit packs.
+  - [AI Birthday Videos](https://inreel.app/effects/ai-birthday) · [AI Dance Motion Transfer](https://inreel.app/effects/ai-dance)
+- **[Private Try-On](https://privatetryon.com)** — Privacy-first AI virtual clothes try-on from your own photo. Try free on the homepage with no public gallery and no monthly subscription.
+- **[AllSites](https://allsites.app)** — Lightweight analytics, search console, and uptime console built for solo founders managing multiple web projects.
 
-## Private Try-On
+### Elsewhere
 
-[Private Try-On](https://privatetryon.com/) helps online shoppers preview separate tops, bottoms, shoes, and optional accessories together as one AI-generated outfit direction before checkout. It is a style preview, not a fit, sizing, fabric, or exact-product guarantee.  
+[Linktree](https://linktr.ee/traxy111) · [Medium](https://medium.com/@traxy111) · [Ko-fi](https://ko-fi.com/traxy) · [Gravatar](https://gravatar.com/traxy111)
